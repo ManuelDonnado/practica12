@@ -1,0 +1,13 @@
+.card-container {
+    display: flex; /* Utiliza flexbox para alinear las tarjetas horizontalmente */
+    justify-content: space-between; /* Distribuye el espacio entre las tarjetas */
+  }
+  
+  .card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    width: 50%; /* Ancho de cada tarjeta */
+    margin-bottom: 20px;
+    margin: 0%; 
+  }  

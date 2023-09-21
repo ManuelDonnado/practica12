@@ -1,0 +1,67 @@
+.servicios{
+    width: 100%; /* Divide la página en dos columnas de igual ancho */
+    float: left; /* Hace que las columnas se coloquen una al lado de la otra */
+    padding: 10px;
+    justify-content: center;
+}
+
+.texserv{
+    width: 35%; /* Divide la página en dos columnas de igual ancho */
+    float: left; /* Hace que las columnas se coloquen una al lado de la otra */
+    padding: 10px;
+    text-align: centar;
+}
+
+.cardserv{
+    width: 100%; 
+    display:flex;
+    justify-content: space-between;
+}
+
+.card{
+    margin: 10px;
+    
+} 
+
+.titulo{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.pt{
+text-align: justify;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+}
+
+.img2 {
+    width: 45px;
+    height: 37px;
+}
+
+.btn1{
+    background-color: #e0e0e0 ;
+}
+ .btne1{
+    background-color: #2d9cdb  ;
+ }
+
+.btn2{
+    background-color: #2d9cdb ;
+}
+.btne2{
+    background-color: #27ae60 ;
+ }
+
+.btn3{
+    background-color: #e0e0e0 ;
+}
+
+.btne3{
+    background-color: #eb5757 ;
+ }

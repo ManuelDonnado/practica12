@@ -1,0 +1,42 @@
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    margin: 1%;
+}
+
+.menu {
+    list-style-type: none; 
+    padding: 0; 
+    text-align: center; 
+    margin: 5%;
+}
+
+
+.menu li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+.text {
+    width: 50%; 
+    float: left; 
+    padding: 10px; 
+   
+
+}
+.t1{
+    color: #6fbbe6;
+    font-size: 18px;
+    line-height: 27px;
+    align-items: left;
+}
+
+
+
+
+.presentacion{
+    border-radius: 20px;
+}
